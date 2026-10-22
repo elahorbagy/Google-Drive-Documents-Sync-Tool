@@ -1,0 +1,8 @@
+﻿gdrive_browser_profile/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
